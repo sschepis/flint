@@ -1,0 +1,13 @@
+{
+    "id": "mdai-utils",
+    "name": "MDAI Utilities",
+    "version": "0.1.0",
+    "description": "Utilities for Obsidian and MDAI. MDAI is the Markdown AI language. MDAI turns markdown into a natural language programming language that users and AIs can use to create, edit, and manage content.",
+    "author": "Sebastian Schepis",
+    "homepage": "https://github.com/sschepis/mdai-utils",
+    "minimumObsidianVersion": "0.12.12",
+    "compatible": true,
+    "requiresKeys": true,
+    "main": "dist/main.js",
+    "tags": ["utility"]
+}
